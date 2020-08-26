@@ -1,0 +1,349 @@
+* {
+	font-family: 'Ubuntu', Sans-serif;
+	box-sizing: border-box;
+}
+.container {
+  width: 80%;
+  margin: 0px auto;
+    background-color: #fff;
+}
+/* Header/Blog Title */
+.header {
+  text-align: center;
+  background-color: white;
+  width: 80%;
+  height: 700px;
+  margin: 0px auto;
+  margin-top: 65px;
+
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+.content {
+
+}
+
+h1, h2, h4 {
+    font-family: 'Ubuntu', Sans-serif;
+    text-align: left;
+    margin-top: -5px;
+  margin-left: -12px;
+}
+
+h5 {
+	text-align: left;
+	font-size: 15px;
+  margin-top: -15px;
+  margin-left: -12px;
+  font-weight: normal;
+}
+
+h4 {
+  font-size: 15px;
+}
+
+h3 {
+	width: 100%;
+	color: blue;
+	font-family: Ubuntu;
+	font-size: 15px;
+	font-weight: bold;
+	font-weight: 600;
+	text-align: left;
+	margin-top: -5px;
+  margin-left: -12px;
+}
+
+
+.responsive {
+  display: block;
+  text-align: center;
+  width: 100%;
+  height: 430px;
+  margin: 0px auto;
+  padding-top: 35px;
+}
+
+.img-1{
+	
+	height: 200px;
+}
+
+
+.gallery-1of4 {
+	display: block;
+	float: left;
+	width: 23%;
+	margin-top: 35px;
+  margin-left: 26px;
+   overflow: hidden;
+}
+
+.gallery-2of4 {
+  display: block;
+  float: left;
+  width: 23%;
+  margin-top: 35px;
+  margin-left: 20px;
+   overflow: hidden;
+}
+
+.gallery-3of4 {
+  display: block;
+  float: left;
+  width: 23%;
+  margin-top: 35px;
+  margin-left: 20px;
+   overflow: hidden;
+}
+
+.gallery-4of4 {
+  display: block;
+  float: left;
+  width: 23%;
+  margin-top: 35px;
+   margin-left: 20px;
+  overflow: hidden;
+
+}
+
+
+.responsive2 {
+  display: block;
+  text-align: center;
+  height: 550px;
+  margin: 0px auto;
+  padding-top: 20px;
+}
+
+.gallery-1of2{
+  display: block;
+  float: left;
+  width: 47%;
+  margin-left: 26px;
+   overflow: hidden;
+}
+.gallery-2of2{
+	display: block;
+	float: left;
+	width: 47%;
+  margin-left: 26px;
+  margin-right: 26px;
+   overflow: hidden;
+}
+
+.img-3{
+	 height: ;
+   width: 100%;
+}
+
+.title-1{
+  font-size: 18px;
+  margin-top:0px;
+  margin-bottom: 25px;
+}
+
+.title-2 {
+  font-size: 22px;
+}
+
+
+
+.responsive3 {
+  display: block;
+  text-align: center;
+  width: 100%;
+  height: 800px;
+  margin: 100px 0px;
+}
+
+.gallery-4{
+	display: block;
+	float: center;
+	width: 100%;
+	margin: 20px auto;
+	padding-right: 0px;
+}
+
+
+.img-4{
+	height: 500px;
+}
+
+
+.responsive4 {
+  display: block;
+  text-align: center;
+  width: 100%;
+  height: 600px;
+  margin: 30px auto;
+}
+
+.gallery-1of5{
+	display: block;
+	float: left;
+	width: 20%;
+  height: 600px;
+	margin: 0px auto;
+  margin-left: 50px;
+  overflow: hidden;
+}
+
+.gallery-2of5{
+  display: block;
+  float: left;
+  width: 20%;
+ height: 600px;
+  margin: 0px auto;
+  margin-left: 60px;
+  overflow: hidden;
+}
+
+.gallery-3of5{
+  display: block;
+  float: left;
+  width: 20%;
+   height: 600px;
+  margin: 0px auto;
+  margin-left: 60px;
+  overflow: hidden;
+}
+
+.gallery-4of5{
+  display: block;
+  float: left;
+  width: 20%;
+  height: 600px;
+  margin: 0px auto;
+  margin-right: 50px;
+  margin-left: 60px;
+  overflow: hidden;
+
+}
+
+
+.tWeC2{
+  height: 500px;
+
+}
+
+
+.img-5{
+	height: 350px;
+}
+
+
+.responsive5 {
+  clear: both;
+  display: block;
+  text-align: center;
+  width: 100%;
+  height: 900px;
+  margin: 80px auto;
+}
+
+.poadcast-1of4{
+  display: block;
+  float: left;
+  width: 20%;
+  height: 450px;
+  margin: 0px auto;
+  margin-left: 50px;
+  overflow: hidden;
+}
+
+.poadcast-2of4{
+  display: block;
+  float: left;
+  width: 20%;
+height: 450px;
+  margin: 0px auto;
+  margin-left: 60px;
+  overflow: hidden;
+}
+
+.poadcast-3of4{
+  display: block;
+  float: left;
+  width: 20%;
+ height: 450px;
+  margin: 0px auto;
+  margin-left: 60px;
+  overflow: hidden;
+}
+
+.poadcast-4of4{
+  display: block;
+  float: left;
+  width: 20%;
+ height: 450px;
+  margin: 0px auto;
+  margin-right: 50px;
+  margin-left: 60px;
+  overflow: hidden;
+
+}
+
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+h4 a {
+  text-decoration: none;
+}
+
+
+
+@media   (min-width: 320px) and (max-width: 768px) {
+ .container {
+  width: 100%; margin: 0px auto;
+ }
+
+ .header { width: 100%; height: 250px;margin-top: 5px;}
+
+
+
+.gallery-1of4, .gallery-2of4, .gallery-3of4, .gallery-4of4 {width: 80%; margin-top: 35px auto; overflow: hidden; margin-left: 35px;
+}
+.responsive { height: 1600px;}
+.responsive2{ height: 1000px;;margin: 20px auto;}
+.gallery-1of2, .gallery-2of2{
+  width:95%;
+  margin: 0px 10px;
+   overflow: hidden;
+}
+
+.responsive3{margin: 20px auto; height: 220px; }
+
+.responsive4 {background-color: red; padding: 0px 40px;clear: both; margin: 30px auto; height: 2600px;; width: 80%;}
+
+.gallery-1of5, .gallery-2of5, .gallery-3of5,.gallery-4of5{
+  width: 100%;
+  height: 490px;
+  margin: 15px auto;
+}
+
+.tWeC2{
+  height: 400px;
+
+}
+
+
+.poadcast-1of4{
+  width: 80%;
+  height: 600px;
+  margin: 0px auto;
+  overflow: hidden;
+  background-color: pink;
+}
+
+.responsive5 {
+  margin: 0px auto;
+}
+
+}
